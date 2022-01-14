@@ -1,2 +1,2 @@
-# Braille-Recognetion-Model
+# Braille Charachters Classifier
  
